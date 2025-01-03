@@ -42,6 +42,8 @@ Symptoms: User-inputted symptoms.
 Predicted Disease: Outcome of the analysis.
 Medicines: Recommendations for the diagnosed disease.
 Constraints: Ensures validity and uniqueness for accurate predictions.
+
+##Dataset Link: https://www.kaggle.com/datasets/devikshah/health-symptoms-and-disease-prediction-dataset
 Testing
 
 Unit Testing, Integration Testing, and System Testing were conducted to ensure smooth functionality.
